@@ -1,0 +1,11 @@
+/Users/blue/Projects/NSS/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp2.2/idioms.deps.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp2.2/idioms.runtimeconfig.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp2.2/idioms.runtimeconfig.dev.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp2.2/idioms.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/idioms/bin/Debug/netcoreapp2.2/idioms.pdb
+/Users/blue/Projects/NSS/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp2.2/idioms.csprojAssemblyReference.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp2.2/idioms.csproj.CoreCompileInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp2.2/idioms.AssemblyInfoInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp2.2/idioms.AssemblyInfo.cs
+/Users/blue/Projects/NSS/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp2.2/idioms.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/idioms/obj/Debug/netcoreapp2.2/idioms.pdb
